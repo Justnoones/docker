@@ -6,5 +6,5 @@ app.get('/',(req, res) => {
 });
 
 app.listen(4000, () => {
-    console.log("My app listenin on port 4000");
+    console.log("My app listening on port 4000 ...");
 });

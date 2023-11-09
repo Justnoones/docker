@@ -1,0 +1,1 @@
+docker run --name node-app-nodemon-1.1 -d -p 4000:4000 -v /home/wai-yan/Desktop/myapp:/app -v /app/node_modules --rm node-app:nodemon-1.1
